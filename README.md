@@ -19,7 +19,7 @@ Create docker image using Dockerfile
 
 
 ```docker
-docker build -t dockerhandson/spring-boot-mongo .
+docker build -t venki22/spring-mongo-db .
 ```
 
 ## Deploy Application Using Docker Compose 
@@ -33,5 +33,3 @@ docker-compose up -d
 docker ps -a
 ```
 
-## License
-[Mithun Technologies](http://mithuntechnologies.co.in)

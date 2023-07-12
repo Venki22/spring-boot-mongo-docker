@@ -8,8 +8,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 /**
  * Main Application controller.
- *
- * @author Mithun 
  */
 @Controller
 @EnableAutoConfiguration
